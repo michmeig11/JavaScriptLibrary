@@ -1,0 +1,23 @@
+body {
+    background-color: lightskyblue;
+}
+
+table {
+    border: 3px solid black;
+    margin: 5px;
+    margin: auto;
+    
+}
+
+th {
+    font-style: italic;
+    padding-right: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+td {
+    padding: 5px;
+}

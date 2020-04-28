@@ -1,0 +1,61 @@
+body {
+    background-color: grey;
+
+}
+
+h1 {
+    color: lightgreen;
+    text-align: center;
+    font-size: 40px;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: red;
+    text-align: center;
+}
+#box {
+    border: 5px solid black;
+    border-radius: 50px;
+    height: 300px;
+    width: auto;
+    
+}
+
+.tlbox {
+    border: 2px dashed purple;
+    border-radius: 10px;
+    margin: 50px 7px;
+    background-color: lightgrey;
+    width: 30%;
+    padding: 5px;
+    float: left;
+    
+}
+
+#tl1 {
+    margin-left: 30px;
+}
+
+#tl2 {
+    margin-top: 32px;
+}
+
+#tl3 {
+    margin-top: 15px;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 10px 10px;
+    background-color: rgb(46, 46, 44);
+    font-weight: bold;
+    color: rgb(240, 106, 162);
+    margin-left: 33%;
+    
+}
