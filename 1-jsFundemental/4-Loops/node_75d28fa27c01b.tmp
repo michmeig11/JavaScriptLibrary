@@ -1,0 +1,12 @@
+let i =7;
+//*    1      2      3
+for (i = 0; 1 < 10; i++){
+    console.log(i);
+}
+
+/*
+1. initial expression - rn once before the loop starts
+2. condition - loop runs until the condition evaluates to false
+3. increment expression - run once after each iteration of the loop
+
+*/
